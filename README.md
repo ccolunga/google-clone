@@ -1,4 +1,4 @@
-# Curso Práctico de HTML y CSS
+# Curso Práctico de HTML y CSS de Platzi
 
 ## Descripcion
 
